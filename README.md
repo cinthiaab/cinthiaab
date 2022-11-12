@@ -2,8 +2,7 @@
 
 <div align="center" style="display: inline_row">
   <div>
-    <img align="right" alt="Cinthia-gif" height="200" width="180" style="border:50px;"  src="https://images-ext-2.discordapp.net/external/KVs0y51Zj4u2cybvjcgzBXGA9h3hP7AzDWx1Q7ZQlkc/https/im.ezgif.com/tmp/ezgif-1-02c77d1e1f.gif">
-    <br>
+    
   </div>
   
   <div align="center">
