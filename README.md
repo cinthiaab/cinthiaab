@@ -21,8 +21,8 @@
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/cinthiaab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cinthiaab&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiaab&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cinthiaab&show_icons=true&theme=jolly&hide_border=true" height="180em">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cinthiaab&layout=compact&theme=jolly&hide_border=true&langs_count=10" height="180em"> 
 </div>
 
  ## Technologies & Tools
