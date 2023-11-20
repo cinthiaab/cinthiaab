@@ -8,8 +8,8 @@
   
   <div align="center">
     <h4>
-    💟 Me chamo Cinthia Alves Barreto e tenho 18 anos 💟 <br>
-    🌱 Estudante de Ciência da Computação na PUC-SP (3°semestre) 🌱 <br>
+    💟 Me chamo Cinthia Alves Barreto e tenho 20 anos 💟 <br>
+    🌱 Estudante de Ciência da Computação na PUC-SP (5°semestre) 🌱 <br>
     🖥️ Apaixonada por tecnologia 🖥️ <br>
     🔭 Enquanto não sei qual área devo seguir, vou desbravando até descobrir 🔭 <br>
     ✨ Aprender, praticar e inovar ✨<br>
